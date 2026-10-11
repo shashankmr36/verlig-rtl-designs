@@ -1,0 +1,5 @@
+# Compiled simulation files
+*.vvp
+
+# Build output
+build/
